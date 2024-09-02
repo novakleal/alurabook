@@ -4,7 +4,6 @@
 @import url("styles/topicos.css");
 @import url("styles/contato.css");
 @import url("styles/rodapé.css");
-
 :root {
     --cor-de-fundo: #EBECEE;
     --branco: #FFFFFF;
@@ -13,7 +12,6 @@
     --fonte-principal: "Poppins";
     --azul: #002F52;
 }
-
 body {
     background-color: var(--cor-de-fundo);
     font-family: var(--fonte-principal);

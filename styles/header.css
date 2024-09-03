@@ -43,6 +43,8 @@
 
 .lista-menu__titulo {
     color: var(--laranja);
+    text-transform: uppercase;
+    font-weight: bolder;
 }
 
 .lista-menu__link {
